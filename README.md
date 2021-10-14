@@ -1,2 +1,2 @@
 # game
-# A game that I made
+A game that I made
